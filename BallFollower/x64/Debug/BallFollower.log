@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  BallFollower.cpp
+c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: zobacz deklarację „fopen”
+f:\studia\semestr 6\isa\przetwarzanie obrazow\187382\ballfollower\ballfollower\ballfollower.cpp(194): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+f:\studia\semestr 6\isa\przetwarzanie obrazow\187382\ballfollower\ballfollower\ballfollower.cpp(200): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+f:\studia\semestr 6\isa\przetwarzanie obrazow\187382\ballfollower\ballfollower\ballfollower.cpp(202): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+f:\studia\semestr 6\isa\przetwarzanie obrazow\187382\ballfollower\ballfollower\ballfollower.cpp(430): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: zobacz deklarację „_sleep”
+  Generowanie kodu...
+  BallFollower.vcxproj -> F:\Studia\semestr 6\ISA\przetwarzanie obrazow\187382\BallFollower\BallFollower\x64\Debug\BallFollower.exe
+  BallFollower.vcxproj -> F:\Studia\semestr 6\ISA\przetwarzanie obrazow\187382\BallFollower\BallFollower\x64\Debug\BallFollower.pdb (Partial PDB)
